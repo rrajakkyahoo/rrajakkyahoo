@@ -1,7 +1,2 @@
 line 1
 line 2
-<<<<<<< HEAD
-line 4
-=======
-line 3
->>>>>>> a27a4180b98a13b882e1064a49bab18af3979795
